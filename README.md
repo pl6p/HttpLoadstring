@@ -4,3 +4,4 @@
 local loadhttp = require(script.LoadHttp)
 loadhttp("https://mycoolsource.xyz/hello_world.lua")
 ```
+Fast download ez conf
